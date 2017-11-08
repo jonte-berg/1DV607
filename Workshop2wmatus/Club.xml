@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<BoatClub>
+    <members id="0">
+        <name>qasdasd</name>
+        <personalNumber>123123123123</personalNumber>
+        <Boat id="0">
+            <type>testtyp</type>
+            <length>123123</length>
+        </Boat>
+    </members>
+    <members id="1">
+        <name>Berg</name>
+        <personalNumber>111111111111</personalNumber>
+        <Boat id="0">
+            <type>Yak</type>
+            <length>100</length>
+        </Boat>
+    </members>
+</BoatClub>
